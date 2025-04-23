@@ -1,0 +1,33 @@
+If you're seeing this message: you probably imported the project correctly!
+
+
+A text file like this is extremely useful in coordinating tasks in coding a robot, especially
+when you have multiple people working on a single file.
+You can use a tracking system like below to keep track of tasks, or create your own!
+
+Task 1 - DONE (Bugs fixed by Omar)
+Task 2 - IN PROGRESS (Wheel code added by Austin; Viper slide code added by Nick)
+Task 3 - NOT STARTED
+
+
+When working with GitHub, it's important to remember 3 things: 1) Always fetch origin before
+beginning to work to ensure you have the latest updates from your group, 2) always push your code
+to origin after your work is complete, and 3) Try and communicate any changes you made to your
+group. If two of you are working on one file at the same time and try and commit, you'll get what's
+known as a merge conflict. It shouldn't be too hard to solve though, GitHub should prompt you to
+choose which changed you want to actually keep.
+
+Make sure you're communicating with the engineers too on what you need from them, and whether they
+need anything from you.
+
+
+For the purposes of this Half-Scrimmage, the goal is to get you involved with working with the robot.
+This not only means you're comfortable with coding parts you already know, but extending your
+knowledge to new challenges. Because of this, I'd highly recommend NOT using or referencing code you
+previously wrote, and trying to make new code.
+If you are unsure of what to do at any time, Learn Java for FTC is a great start. Be smart though; the
+book is too massive to read completely searching for one answer, so use the table of contents wisely.
+
+
+Other than that's you're ready to start!
+(P.S. right click the TeleOp folder and select Java Class to create a new file.)
